@@ -241,23 +241,10 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 5
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-
-# Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
 [Languages.en]
