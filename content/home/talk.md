@@ -11,9 +11,6 @@ weight = 60
 
 # Selected Talks
 
-
-* Dec 2017: [Where is that data utopia? Looking beyond the data to deliver efficiencies] (http://symposium.victorchang.edu.au/wp-content/uploads/2017/06/SCS-schedule.pdf), at *Sydney Cardiovascular Symposium*, (Victor Chang 18th International Symposium), Sydney
-
 * Nov 2017:  [Delivering Efficiencies in Healthcare and Manufacturing] (http://dicta2017.dictaconference.org/speakers.html#k4), *Digital Image Computing: Techniques and Applications (DICTA2017)*, Sydney
 
 * Nov 2017: Machine Learning for Alloy and Material design, Institute for Frontier Materials Annual Conference, Geelong
