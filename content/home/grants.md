@@ -17,7 +17,12 @@ weight = 31
 
 Year    | Title | Patent Number
 --------|--------|------
+2017-2022   | ARC Australian Laureate Fellowship Grant - Pattern Analysis for Accelerating Scientific Innovation | $3,016,065
+2017-2018	| WISE Employment Grant - Unlocking factors for successful job placement through machine learning | $130,048
+2017-2022 	| ARC Industrial Transformation Research Hubs grant for Digital Enhanced Living | $2,962,655
 2017-2020   | Advanced manufacturing of new high entropy alloys, AISF Grant    |$995,000
+2016-2019   | Telstra Grant- COE in Big Data and Machine Learning | $1,600,000
+2016-2018   | Accuracy of Machine Scoring of Fidgety Movements from High Risk Infant Populations- Cerebral Palsy Alliance | $134,409
 2015-2017   | Stay Well: Analysing lifestyle data from smart monitoring devices, ARC Discovery Project|$384,700
 2014-2017   | Tools for Early Intervention in Autistic Children, ARC Linkage, Partner Autism West Support Incorporated|	$375,000
 2014        | Bioinformatics Collaborative Grants Program: Towards a real time data sharing to support patient-centred care, quality health delivery, improvement programmes, performance management and research|	$210,000

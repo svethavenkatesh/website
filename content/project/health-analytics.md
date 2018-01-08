@@ -35,4 +35,4 @@ With our partner [Barwon Health](http://www.barwonhealth.org.au/) we are embarki
 * Detect indicators that serve as early warning of chronic disease
 * Monitor key factors that deliver value to patients in the areas of care experiences, care coordination and patient safety.
 
-Our work led to the formation of a tech company [iHosp](http://ihosp.com/), an app that allows hospital administrators and clinicians to see at a glance what’s happening in the hospital, on the ward or to their patients. This was developed over several years of research, using machine learning to mine medical and hospital data to provide hospital cost efficiencies and better predictive patient support.
+Our work led to the formation of an app that allows hospital administrators and clinicians to see at a glance what’s happening in the hospital, on the ward or to their patients. This was developed over several years of research, using machine learning to mine medical and hospital data to provide hospital cost efficiencies and better predictive patient support.
