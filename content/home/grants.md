@@ -15,7 +15,7 @@ weight = 31
 
 +++
 
-Year    | Title | Patent Number
+Year    | Title | Amount
 --------|--------|------
 2017-2022   | ARC Australian Laureate Fellowship Grant - Pattern Analysis for Accelerating Scientific Innovation | $3,016,065
 2017-2018	| WISE Employment Grant - Unlocking factors for successful job placement through machine learning | $130,048
