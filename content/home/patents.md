@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Patents"
+title = "Selected Patents"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,17 +15,6 @@ weight = 30
 
 +++
 
-Year    | Title | Patent Number
---------|--------|------
-2017   | Systems and methods for making a product    |PCT/AU2017/050291
-2013   | Medical data processing for risk prediction | 2013902191
-2010   | Systems and Methods for detecting Anomalies in data | 2010230857, China 201080028373.X , Japan 5625039 , Singapore 1/4519, US 20120063641
-2008   | Micro-trading Exchange | 2008901073
-2008   | Social Multimedia Management | PCT/AU2008/001794
-2008   | Graffiti Deterrence  | PCT/AU2007/001714
-2007   | Virtual Observer     | PCT/AU2007/00483
-2007   | Testing Surveillance Camera Installations      |  PCT/AU2007/00398, USA#12-295.053, Europe #07718645.0, CAN#2,644,451
-2006   | Calibration of Audio-Video Sensors for Multi-Modal Event Indexing | 2006905423
-2006   | Method for Analysing an Industrial Process  | P53730
-1995   | Method and System for Processing Images   | PN6517
-
+* Testing surveillance camera installations (US 8305438, Australia: 2007231552, NZ 571839) 
+* Virtual Observer (Australia 2007240116, EP 2005748)
+* Systems and Methods for detecting anomalies in data (US 8744124)

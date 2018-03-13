@@ -17,8 +17,10 @@ weight = 31
 
 Year    | Title | Amount
 --------|--------|------
+2018-2022   | NHMRC Project Grant - APP1138405 - A RCT of depression prevention in adolescents: the Future Proofing trial (led by Professor Helen Christensen | $2,183,737
+2017-2018   | Translating Deakin's Patient Management Success at Alfred Health (with Dr Wei Luo) | $3,016,065
 2017-2022   | ARC Australian Laureate Fellowship Grant - Pattern Analysis for Accelerating Scientific Innovation | $3,016,065
-2017-2018	| WISE Employment Grant - Unlocking factors for successful job placement through machine learning | $130,048
+2017-2018	| WISE Employment Grant - Unlocking factors for successful job placement through machine learning | $50,000
 2017-2022 	| ARC Industrial Transformation Research Hubs grant for Digital Enhanced Living | $2,962,655
 2017-2020   | Advanced manufacturing of new high entropy alloys, AISF Grant    |$995,000
 2016-2019   | Telstra Grant- COE in Big Data and Machine Learning | $1,600,000

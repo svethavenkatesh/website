@@ -11,6 +11,8 @@ weight = 60
 
 # Selected Talks
 
+* Feb 2018: [Delivering Efficiencies in Health Care and Manufacturing](http://icb2018.org/keynote/), The 11th IAPR International Conference on Biometrics (ICB 2018), Gold Coast, Australia
+
 * Nov 2017:  [Delivering Efficiencies in Healthcare and Manufacturing] (http://dicta2017.dictaconference.org/speakers.html#k4), *Digital Image Computing: Techniques and Applications (DICTA2017)*, Sydney, Australia
 
 * Nov 2017: Machine Learning for Alloy and Material design, Institute for Frontier Materials Annual Conference, Geelong, Australia
