@@ -4,7 +4,7 @@ widget = "custom"
 active = true
 date = 2017-09-20
 
-title = "Selected Awards"
+title = "Selected Awards and Honours"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -12,10 +12,8 @@ weight = 10
 
 +++
 
-* [ARC Australian Laureate Fellowship](http://www.arc.gov.au/2017-laureate-profile-professor-svetha-venkatesh)
-* [Victorian Honour Roll of Women](https://www.premier.vic.gov.au/twenty-victorian-women-awarded-prestigious-honour/)
-* [Australian Academy of Technological Sciences and Engineering (ATSE) Fellowship](https://www.atse.org.au/)
-* [International Association of Pattern Recognition (IAPR) Fellowship](http://www.iapr.org/)
+* 2018 [Victorian Honour Roll of Women](https://www.premier.vic.gov.au/twenty-victorian-women-awarded-prestigious-honour/)
+* 2017 [ARC Australian Laureate Fellowship](http://www.arc.gov.au/2017-laureate-profile-professor-svetha-venkatesh)
 * 2017: [PAKDD'17: Best Application paper] (http://pakdd2017.snu.ac.kr/?awards)
 * 2016: [ACML'16:Best Paper RunnerUp](http://www.acml-conf.org/2016)
 * 2015: [STEM Hero](http://www.deakin.edu.au/research/research-news/articles/svetha-venkatesh-stem-hero)
