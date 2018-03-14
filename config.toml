@@ -236,7 +236,7 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Patents&Grants"
+  name = "Patents"
   url = "#patents"
   weight = 4
 
