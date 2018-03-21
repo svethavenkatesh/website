@@ -1,5 +1,4 @@
 +++
-# Awards.
 widget = "custom"
 active = true
 date = 2017-09-20
@@ -10,6 +9,8 @@ weight = 60
 +++
 
 # Selected Talks
+
+* March 2018: Detecting Rare Events, Collaborative Deans' Lecture, Melbourne School of Engineering, Melbourne, Australia
 
 * Feb 2018: [Delivering Efficiencies in Health Care and Manufacturing](http://icb2018.org/keynote/), The 11th IAPR International Conference on Biometrics (ICB 2018), Gold Coast, Australia
 
@@ -30,3 +31,5 @@ weight = 60
 * Oct 2015: [Dennis Moore Distinguished Oration] (https://www.acs.org.au/insightsandpublications/news-archive/2015/87444.html), Australian Computer Society, Perth, Australia
 
 * Oct 2015: [Harrison Lecture for Innovation] (http://www.deakin.edu.au/research/research-news/articles/looking-beyond-big-data), Geelong Smart Network, Geelong, Australia
+
+* Oct 2014: Suicide risk detection using electronic medical records, Brain Sciences UNSW Symposium, Kensington, Australia
