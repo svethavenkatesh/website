@@ -10,6 +10,8 @@ weight = 60
 
 # Selected Talks
 
+* April 2018: Accelerating Experimental Design, Intelligent Polymer Research Institute, University of Wollongong, Australia
+
 * March 2018: Detecting Rare Events, Collaborative Deans' Lecture, Melbourne School of Engineering, Melbourne, Australia
 
 * Feb 2018: [Delivering Efficiencies in Health Care and Manufacturing](http://icb2018.org/keynote/), The 11th IAPR International Conference on Biometrics (ICB 2018), Gold Coast, Australia

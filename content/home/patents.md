@@ -15,6 +15,6 @@ weight = 30
 
 +++
 
-* Testing surveillance camera installations (US 8305438, Australia: 2007231552, NZ 571839) 
+* Testing surveillance camera installations (US 8305438, Australia: 2007231552, NZ 571839)
 * Virtual Observer (Australia 2007240116, EP 2005748)
-* Systems and Methods for detecting anomalies in data (US 8744124)
+* Systems and Methods for detecting anomalies from data (US 8744124)
