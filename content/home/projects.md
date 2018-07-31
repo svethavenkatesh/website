@@ -29,16 +29,16 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Bayesian Optimization"
+  tag = ".bayesian"
 
-  [[filter]]
-  name = "Computer Vision"
-  tag = ".computer-vision"
-
-  [[filter]]
+[[filter]]
   name = "Health Analytics"
   tag = ".health"
+
+[[filter]]
+  name = "Computer Vision"
+  tag = ".computer-vision"
 
 
 +++

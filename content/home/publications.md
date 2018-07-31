@@ -36,4 +36,12 @@ publication_type = "-1"
 exclude_selected = true
 +++
 
-Insert links to all publications here
+**Complete List of publications**
+
+Please refer to the  [Google Scholar Profile](https://scholar.google.com.au/citations?user=AEkRUQcAAAAJ) for detailed statistics.
+
+[2018] (pages/2018.html) | [2017] (pages/2017.html) | [2016](pages/2016.html) | [2015](pages/2015.html) | [2014](pages/2014.html) | [2013](pages/2013.html) | [2012](pages/2012.html) | [2011](pages/2011.html) | [2000](pages/2000.html) | [Before 2000](pages/Pre-2000.html)
+
+
+
+
